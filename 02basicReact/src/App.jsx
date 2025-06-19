@@ -5,7 +5,7 @@ import './App.css'
 import Chai from './chai.jsx'
 
 
-//{username} => this is evaluated expression means it is the final outcome 
+//{username} => this is evaluated expression means it is the final outcome result of the expression
 function App() {
     const username = 'Naveed';
 
